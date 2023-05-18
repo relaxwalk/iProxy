@@ -7,7 +7,7 @@ Simple TCP proxy software. Proxy any TCP services in the LAN to public network, 
 + TCP port proxy
 + User management, new, user password  change, email binding
 + Device list, rename and delete
-+ Proxy management
++ Proxy management, add a new proxy, Change proxy ipAddress for another pc's service in the LAN
 + iProxy-client windows only
 + Free for personal user
 
@@ -18,17 +18,3 @@ Simple TCP proxy software. Proxy any TCP services in the LAN to public network, 
 + Register a new user
 + Sign in to server
 + Free for personal user
-
-## Main UI
-
-+ iProxy-client main ui
-
-  ![image-20230518170635168](C:\Users\test\AppData\Roaming\Typora\typora-user-images\image-20230518170635168.png)
-
-+ Add a  new proxy for local service, only TCP for now
-
-  ![image-20230518171445548](C:\Users\test\AppData\Roaming\Typora\typora-user-images\image-20230518171445548.png)
-
-+ Change proxy ipAddress for another pc's service in the LAN
-
-![image-20230518172231530](C:\Users\test\AppData\Roaming\Typora\typora-user-images\image-20230518172231530.png)
