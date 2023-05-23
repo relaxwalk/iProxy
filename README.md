@@ -17,4 +17,3 @@ Simple TCP proxy software. Proxy any TCP services in the LAN to public network, 
 + Run iproxy-client.exe
 + Register a new user
 + Sign in to server
-+ Free for personal user
