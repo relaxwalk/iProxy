@@ -33,4 +33,5 @@ https://blog.csdn.net/qq_30812427/article/details/131063404
 + Sign in to server
 + Add a proxy
 + start remote desktop by ui
++ 
 ![image](https://github.com/relaxwalk/iProxy/assets/133617389/6ab07420-6e75-4172-b656-5a3d429c82c5)
