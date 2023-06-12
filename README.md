@@ -5,6 +5,7 @@ Simple TCP proxy software. Proxy any TCP services in the LAN to public network, 
 https://blog.csdn.net/qq_30812427/article/details/131063404
 
 ## Features
+![image](https://github.com/relaxwalk/iProxy/assets/133617389/6ae914ed-1579-488f-9045-76de9e7a5b98)
 
 + TCP port proxy
 + User management, new, user password  change, email binding
