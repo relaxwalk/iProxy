@@ -10,8 +10,12 @@ https://blog.csdn.net/qq_30812427/article/details/131063404
 + User management, new, user password  change, email binding
 + Device list, rename and delete
 + Proxy management, add a new proxy, Change proxy ipAddress for another pc's service in the LAN
-+ iProxy-client windows only
 + Free for personal user
+
+## components
++ iProxy-server,windows/linux
++ iProxy-host, windows/linux
++ iProxy-client, ui for iProxy, windows only
 
 ## Usage
 
