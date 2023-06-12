@@ -14,8 +14,8 @@ https://blog.csdn.net/qq_30812427/article/details/131063404
 
 ## components
 + iProxy-server: user management, proxy session management, session tansfering, security, device management, proxy public port management
-+ iProxy-host: proxy session client, 
-+ iProxy-client, ui for iProxy, windows only
++ iProxy-host: proxy session client, running in the background as a service in windows, command start iProxy-host in linux
++ iProxy-client, ui for iProxy, currently windows only
 
 |components|windows|linux|macos|
 |---|---|---|---|
