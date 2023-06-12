@@ -16,11 +16,13 @@ https://blog.csdn.net/qq_30812427/article/details/131063404
 + iProxy-server: user management, proxy session management, session tansfering, security
 + iProxy-host: proxy session client, 
 + iProxy-client, ui for iProxy, windows only
+
 |components|windows|linux|macos|
 |---|---|---|---|
 |iProxy-server|yes|yes|todo|
 |iProxy-host|yes|yes|todo|
 |iProxy-client[UI]|yes|todo|todo|
+
 ## Usage
 
 + Download release package: iproxy-client.zip
