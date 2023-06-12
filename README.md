@@ -29,3 +29,4 @@ https://blog.csdn.net/qq_30812427/article/details/131063404
 + Run iproxy-client.exe
 + Register a new user
 + Sign in to server
++ Add a proxy
