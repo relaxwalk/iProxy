@@ -13,7 +13,7 @@ https://blog.csdn.net/qq_30812427/article/details/131063404
 + Free for personal user
 
 ## components
-+ iProxy-server: user management, proxy session management, session tansfering, security
++ iProxy-server: user management, proxy session management, session tansfering, security, device management, proxy public port management
 + iProxy-host: proxy session client, 
 + iProxy-client, ui for iProxy, windows only
 
