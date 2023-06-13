@@ -5,7 +5,8 @@ Simple TCP proxy software. Proxy any TCP services in the LAN to public network, 
 https://blog.csdn.net/qq_30812427/article/details/131063404
 
 ## Features
-![image](https://github.com/relaxwalk/iProxy/assets/133617389/8f291966-9306-4113-8a4d-8b3b795b543a)
+![image](https://github.com/relaxwalk/iProxy/assets/133617389/9595fd92-2060-482a-9b58-709c832840e3)
+
 
 
 + TCP port proxy
